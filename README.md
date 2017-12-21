@@ -2,7 +2,7 @@
  This project is to help everyone in yours methods with mongoosejs.
  
 ## Under development
- Not available yet in NPM
+ > Not available yet in NPM
 ### Install
 ```bash
 npm i -S crud-generic-mongoosejs
