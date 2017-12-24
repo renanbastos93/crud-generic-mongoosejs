@@ -1,0 +1,27 @@
+{
+  "name": "crud-generic-mongoosejs",
+  "version": "1.0.0",
+  "description": "This project is to help everyone in yours methods with mongoosejs",
+  "main": "crud.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/crud-generic-mongoosejs.git"
+  },
+  "keywords": [
+    "crud",
+    "generic",
+    "mongoosejs"
+  ],
+  "author": "Renan Bastos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/crud-generic-mongoosejs/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/crud-generic-mongoosejs#readme",
+  "dependencies": {
+    "mongoose": "^4.13.7"
+  }
+}
